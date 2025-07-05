@@ -93,10 +93,6 @@ Experience the application at [ai-doc-reader.streamlit.app](https://ai-doc-reade
 
 Contributions are welcome! Please open issues or pull requests for new features, bug fixes, or improvements.
 
-## 📝 License
-
-No license detected. Please add a license if you intend to share or distribute this project.
-
 ## 👤 Author
 
 - [Sayeem3051](https://github.com/Sayeem3051)
