@@ -30,7 +30,7 @@ if "analysis_running" not in st.session_state:
     st.session_state.analysis_running = False
 
 # Set the API key directly in the session state (hidden from users)
-st.session_state.api_key = "jIYuFOIKQFrObPurk1am5eeNTU6sMSKA"
+st.session_state.api_key = "DdEAPJjPQMEah3pi78cg2aKX9QrptFnI"
 st.session_state.api_provider = "Mistral AI"
 
 # App header
