@@ -12,7 +12,7 @@ A lightweight LLM-based tool for document analysis. Upload PDFs or text files an
 
 - **Python**
 - **LangChain** – for orchestrating document processing and LLM interactions.
-- **OpenAI API** – for enabling advanced natural language processing and understanding.
+- **mistral API** – for enabling advanced natural language processing and understanding.
 - **Streamlit** – for building an interactive, web-based user interface.
 
 ## 🌐 Live Demo
