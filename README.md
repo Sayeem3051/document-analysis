@@ -70,10 +70,10 @@ Experience the application at [ai-doc-reader.streamlit.app](https://ai-doc-reade
       pip install streamlit langchain openai
       ```
 3. **Configure OpenAI API Key**
-    - Obtain your API key from [OpenAI](https://platform.openai.com/account/api-keys).
+    - Obtain your API key from [mistral.ai](https://console.mistral.ai/api-keys).
     - Set it as an environment variable:
       ```bash
-      export OPENAI_API_KEY='your-api-key'
+      export mistral_API_KEY='your-api-key'
       ```
 
 4. **Run the Application**
